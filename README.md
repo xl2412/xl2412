@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=xl2412&style=flat-square&color=brightgreen)
 
 🔭 I’m currently working on ...
 
