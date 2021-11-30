@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=xl2412)
+![](https://github-readme-stats.vercel.app/api?username=xl2412&theme=dark)
+🔭 I’m currently working on ...
 <!--
 **xl2412/xl2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
